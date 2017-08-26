@@ -1,4 +1,4 @@
-#Sat Aug 26 14:45:00 WIB 2017
+#Sat Aug 26 16:05:42 WIB 2017
 base.0=/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
 renamed.0=classes.dex
 file.0=/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

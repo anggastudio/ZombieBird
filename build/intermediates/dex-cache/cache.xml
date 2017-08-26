@@ -2,31 +2,40 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/core/build/libs/core-1.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="fab1bfcd5ca0c7cd104f326323b3238405578d19">
-        <dex dex="/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_66e37e48e7665022511164043af6c1d9dc1b5d4c/classes.dex" />
+        sha1="0ac276cc1027d3c0f84c9540b69b4c4df1a6148b">
+        <dex dex="/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/build/intermediates/pre-dexed/debug/core-1.0_ecde8e329cea168b19541c26b931f1b576c1ed7c.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/libs/tween-engine-api.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
-        <dex dex="/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/build/intermediates/transforms/dex/debug/folders/1000/2/tween-engine-api_cba1903f0cd3564b7571fa41d99bee4e132da4eb/classes.dex" />
+        <dex dex="/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/build/intermediates/pre-dexed/debug/tween-engine-api_cba1903f0cd3564b7571fa41d99bee4e132da4eb.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/anggapratama_m/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_af1d0df6c9bb09e7e0b0d136c5d580680d8878ee/classes.dex" />
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/build/intermediates/pre-dexed/debug/gdx-1.9.6_f7abddf8b2f18ae794bed7f5a36de5c24ed6d241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anggapratama_m/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/anggapratama_m/AndroidStudioProjects/ZombieBird/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.6_1b73f6679f89c95b7e86b711e5ea0c2589d01d20.jar" />
     </item>
 
 </items>
