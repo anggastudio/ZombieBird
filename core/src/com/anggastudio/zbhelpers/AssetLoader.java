@@ -25,10 +25,10 @@ public class AssetLoader {
 
     public static void load() {
 
-        logoTexture = new Texture(Gdx.files.internal("data/logo.png"));
+        logoTexture = new Texture(Gdx.files.internal("data/anggastudio_logo.png"));
         logoTexture.setFilter(Texture.TextureFilter.Linear, Texture.TextureFilter.Linear);
 
-        logo = new TextureRegion(logoTexture, 0, 0, 512, 114);
+        logo = new TextureRegion(logoTexture, 0, 0, 320, 139);
 
         texture = new Texture(Gdx.files.internal("data/texture.png"));
         texture.setFilter(Texture.TextureFilter.Nearest, Texture.TextureFilter.Nearest);
